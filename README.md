@@ -49,7 +49,7 @@ The library can also automatically detect supported LCD I2C addresses using the 
 
 ## Installation
 
-1. Download [`LCD_Multi_Display_v1.3.ubl`](library/LCD_Multi_Display_v1.3.ubl).
+1. Download [`LCD_Multi_Display_v1.3.ubl`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/LCD_Multi_Display_v1.3.ubl).
 2. Open MicroBlocks.
 3. Import the library into your project using the MicroBlocks library import option.
 4. The LCD Multi Display blocks will appear in the block palette.
