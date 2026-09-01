@@ -194,7 +194,7 @@ This allows two LCDs to run independent Clocks and Alarms simultaneously.
 
 ![Two clocks and backlight control](images/Two_Clocks_Backlight.JPG)
 
-See [`06_a_Two_Clocks_Backlight.ubp`](examples/06_a_Two_Clocks_Backlight.ubp) and [`06_b_Two_Clocks_Alarms.ubp`](examples/06_b_Two_Clocks_Alarms.ubp) for complete examples.
+See [`06_a_Two_Clocks_Backlight.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/06_a_Two_Clocks_Backlight.ubp) and [`06_b_Two_Clocks_Alarms.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/06_b_Two_Clocks_Alarms.ubp) for complete examples.
 
 ## Countdown
 
@@ -227,9 +227,9 @@ A new Countdown cycle rearms One shot mode.
 
 Complete examples:
 
-- [`07_Countdown_Control.ubp`](examples/07_Countdown_Control.ubp)
-- [`08_a_Countdown_One_Shot_ON.ubp`](examples/08_a_Countdown_One_Shot_ON.ubp)
-- [`08_b_Countdown_One_Shot_OFF.ubp`](examples/08_b_Countdown_One_Shot_OFF.ubp)
+- [`07_Countdown_Control.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/07_Countdown_Control.ubp)
+- [`08_a_Countdown_One_Shot_ON.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/08_a_Countdown_One_Shot_ON.ubp)
+- [`08_b_Countdown_One_Shot_OFF.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/08_b_Countdown_One_Shot_OFF.ubp)
 
 ## Examples
 
