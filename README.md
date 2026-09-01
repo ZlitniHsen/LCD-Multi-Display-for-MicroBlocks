@@ -212,9 +212,9 @@ After FINISHED, press the control button once to return to `Ready` with exactly 
 
 With `Pull-up` ON, the button uses the internal pull-up and is active LOW.
 
-[![Countdown control](images/Countdown_Ready.JPG)](videos/countdown_cycle1.mp4)
+[![Countdown control](images/Countdown_Ready.JPG)](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/countdown_cycle1.mp4)
 
-**[Watch the complete Countdown cycle](videos/countdown_cycle1.mp4)**
+**[Download the complete Countdown cycle](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/countdown_cycle1.mp4)**
 
 ### Countdown finished?
 
@@ -254,11 +254,11 @@ For illustrated step-by-step explanations, MicroBlocks programs and real hardwar
 
 Real hardware demonstrations are included with this release:
 
-- [`6a_backlight.mp4`](videos/6a_backlight.mp4) — Backlight control on two LCDs
-- [`6b_alarm.mp4`](videos/6b_alarm.mp4) — Clock and Alarm demonstration
-- [`countdown_cycle1.mp4`](videos/countdown_cycle1.mp4) — complete Ready / Start / Pause / Resume / Finished / Ready cycle
-- [`8a_One_shot_On.mp4`](videos/8a_One_shot_On.mp4) — one-time action when the Countdown finishes
-- [`8b_One_Shot_Off.mp4`](videos/8b_One_Shot_Off.mp4) — persistent FINISHED state
+- [`6a_backlight.mp4`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/6a_backlight.mp4) — Backlight control on two LCDs
+- [`6b_alarm.mp4`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/6b_alarm.mp4) — Clock and Alarm demonstration
+- [`countdown_cycle1.mp4`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/countdown_cycle1.mp4) — complete Ready / Start / Pause / Resume / Finished / Ready cycle
+- [`8a_One_shot_On.mp4`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/8a_One_shot_On.mp4) — one-time action when the Countdown finishes
+- [`8b_One_Shot_Off.mp4`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/8b_One_Shot_Off.mp4) — persistent FINISHED state
 
 All demonstrations were recorded using real LCD hardware.
 
