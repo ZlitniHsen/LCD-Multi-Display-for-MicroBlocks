@@ -235,16 +235,16 @@ Complete examples:
 
 This release includes 10 MicroBlocks project files organized into 8 learning topics:
 
-1. [`01_Hello_LCD.ubp`](examples/01_Hello_LCD.ubp) — Init, Print, Center and Clear
-2. [`02_Two_LCDs.ubp`](examples/02_Two_LCDs.ubp) — two independent LCDs with different dimensions and I2C addresses
-3. [`03_Six_Independent_Scrolls.ubp`](examples/03_Six_Independent_Scrolls.ubp) — four Scrolls on a 20x04 plus two on a 16x02
-4. [`04_Symbols_Custom_Chars.ubp`](examples/04_Symbols_Custom_Chars.ubp) — Symbol, Join and Custom char
-5. [`05_Accents_Special_Chars.ubp`](examples/05_Accents_Special_Chars.ubp) — accented characters, ° and Ω
-6. [`06_a_Two_Clocks_Backlight.ubp`](examples/06_a_Two_Clocks_Backlight.ubp) — two independent Clocks and Backlight control
-7. [`06_b_Two_Clocks_Alarms.ubp`](examples/06_b_Two_Clocks_Alarms.ubp) — two independent Clocks and Alarms
-8. [`07_Countdown_Control.ubp`](examples/07_Countdown_Control.ubp) — Ready, Start, Pause, Resume and restart
-9. [`08_a_Countdown_One_Shot_ON.ubp`](examples/08_a_Countdown_One_Shot_ON.ubp) — one-time completion event
-10. [`08_b_Countdown_One_Shot_OFF.ubp`](examples/08_b_Countdown_One_Shot_OFF.ubp) — persistent FINISHED state
+1. [`01_Hello_LCD.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/01_Hello_LCD.ubp) — Init, Print, Center and Clear
+2. [`02_Two_LCDs.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/02_Two_LCDs.ubp) — two independent LCDs with different dimensions and I2C addresses
+3. [`03_Six_Independent_Scrolls.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/03_Six_Independent_Scrolls.ubp) — four Scrolls on a 20x04 plus two on a 16x02
+4. [`04_Symbols_Custom_Chars.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/04_Symbols_Custom_Chars.ubp) — Symbol, Join and Custom char
+5. [`05_Accents_Special_Chars.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/05_Accents_Special_Chars.ubp) — accented characters, ° and Ω
+6. [`06_a_Two_Clocks_Backlight.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/06_a_Two_Clocks_Backlight.ubp) — two independent Clocks and Backlight control
+7. [`06_b_Two_Clocks_Alarms.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/06_b_Two_Clocks_Alarms.ubp) — two independent Clocks and Alarms
+8. [`07_Countdown_Control.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/07_Countdown_Control.ubp) — Ready, Start, Pause, Resume and restart
+9. [`08_a_Countdown_One_Shot_ON.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/08_a_Countdown_One_Shot_ON.ubp) — one-time completion event
+10. [`08_b_Countdown_One_Shot_OFF.ubp`](https://github.com/ZlitniHsen/LCD-Multi-Display-for-MicroBlocks/releases/download/v1.3/08_b_Countdown_One_Shot_OFF.ubp) — persistent FINISHED state
 
 For illustrated step-by-step explanations, MicroBlocks programs and real hardware results, see:
 
